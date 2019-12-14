@@ -1,0 +1,9 @@
+*.*
+!*.ipynb 
+!*.cs 
+!*.py
+!*.md
+!*.gitignore
+scratch.py
+scratch.ipynb
+gravity/Gravity/Library
